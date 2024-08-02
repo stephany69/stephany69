@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephany69
 - 👀 I’m interested in aprender mais.
-- 🌱 I’m currently learning a programar
+- 🌱 I’m currently learning programar
 - 💞️ I’m looking to collaborate 
 
 <!---
